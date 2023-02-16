@@ -60,4 +60,4 @@ Select an option:
 4. Exit
 4
 
-![Flowchart](C:\Users\morri\Documents\GitHub\22122128-MDS273L-JAVA\lab-3\Image)
+![Flowchart](./Image/flowchart.png)

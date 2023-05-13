@@ -38,3 +38,40 @@ If the entered choice is invalid, print "Invalid choice. Try again."
 Repeat steps 3 to 12 until the choice is 5
 Close the Scanner object
 End
+
+OUTPUT
+PS C:\Users\morri>  & 'C:\Program Files\Java\jdk-11.0.17\bin\java.exe' '-cp' 'C:\Users\morri\AppData\Local\Temp\vscodesws_61300\jdt_ws\jdt.ls-java-project\bin' 'menu'
+Menu Options:
+1. Enter a name     
+2. Search for a name
+3. Remove a name    
+4. Show all names   
+5. Exit
+Enter your choice: 1
+Enter the name: Morries
+Menu Options:       
+1. Enter a name     
+2. Search for a name
+3. Remove a name    
+4. Show all names   
+5. Exit
+Enter your choice: 2
+Enter the name to search for: Morries
+Name found in the list.
+Menu Options:
+1. Enter a name        
+2. Search for a name   
+3. Remove a name
+4. Show all names
+5. Exit
+Enter your choice: 4
+All names: [Morries]
+Menu Options:
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show all names
+5. Exit
+Enter your choice:    
+
+
